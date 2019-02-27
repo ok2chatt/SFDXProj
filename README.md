@@ -1,2 +1,2 @@
 # SFDXProj
-Used for testing SFDX 
+Used for testing SFDX commands and Geolocation Trailhead app
